@@ -1,3 +1,5 @@
-Os testes representam uma etapa de extrema import‚ncia no processo de desenvolvimento de software, 
-pois visam validar se a aplicaÁ„o est· funcionando corretamente e se atende aos requisitos especificados.
+Os testes representam uma etapa de extrema import√¢ncia no processo de desenvolvimento de software, 
+pois visam validar se a aplica√ß√£o est√° funcionando corretamente e se atende aos requisitos especificados.
 
+Lucas Luiz Costa Lima
+RA: 1802197
