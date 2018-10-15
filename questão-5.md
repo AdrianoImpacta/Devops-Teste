@@ -1,25 +1,25 @@
-A finalidade do Caso de Teste È identificar e comunicar formalmente as condiÁıes especÌficas detalhadas que ser„o validadas para permitir a avaliaÁ„o de determinados aspectos dos Itens de Teste-alvo. Os Casos de Teste podem ser motivados por v·rios fatores, mas normalmente incluir„o um subconjunto dos Requisitos (Casos de Uso, caracterÌsticas de desempenho etc.) e dos riscos envolvidos no projeto.
+A finalidade do Caso de Teste √© identificar e comunicar formalmente as condi√ß√µes espec√≠ficas detalhadas que ser√£o validadas para permitir a avalia√ß√£o de determinados aspectos dos Itens de Teste-alvo. Os Casos de Teste podem ser motivados por v√°rios fatores, mas normalmente incluir√£o um subconjunto dos Requisitos (Casos de Uso, caracter√≠sticas de desempenho etc.) e dos riscos envolvidos no projeto.
 
-O Caso de Teste È usado basicamente:
+O Caso de Teste √© usado basicamente:
 
-para enumerar um n˙mero adequado de testes especÌficos para garantir a abrangÍncia da avaliaÁ„o.
+para enumerar um n√∫mero adequado de testes espec√≠ficos para garantir a abrang√™ncia da avalia√ß√£o.
 para identificar e considerar Scripts de Teste e geradores, de forma manual e automatizada.
-para fornecer um esquema para a implementaÁ„o de Scripts de Teste e geradores, fornecendo uma descriÁ„o dos pontos-chave de observaÁ„o e controle e qualquer pÛs ou precondiÁ„o.
+para fornecer um esquema para a implementa√ß√£o de Scripts de Teste e geradores, fornecendo uma descri√ß√£o dos pontos-chave de observa√ß√£o e controle e qualquer p√≥s ou precondi√ß√£o.
 
-Nada proporciona satisfaÁ„o maior ao usu·rio final, com relaÁ„o ao software, do que uma vis„o clara de suas expectativas, para que sejam verificadas e validadas. Os casos de teste refletem os requisitos que devem ser verificados. Entretanto, a verificaÁ„o desses requisitos pode ser feita de forma diferente e por testadores distintos. Por exemplo, a execuÁ„o do software para verificar sua funÁ„o e desempenho pode ser feita por um testador usando tÈcnicas de teste automatizadas, a seq¸Íncia de desligamento de um sistema de computadores pode ser realizada por teste manual e observaÁ„o, ao passo que a participaÁ„o no mercado e as vendas (tambÈm requisitos do produto) ser„o realizadas atravÈs da avaliaÁ„o do produto e das vendas competitivas.
+Nada proporciona satisfa√ß√£o maior ao usu√°rio final, com rela√ß√£o ao software, do que uma vis√£o clara de suas expectativas, para que sejam verificadas e validadas. Os casos de teste refletem os requisitos que devem ser verificados. Entretanto, a verifica√ß√£o desses requisitos pode ser feita de forma diferente e por testadores distintos. Por exemplo, a execu√ß√£o do software para verificar sua fun√ß√£o e desempenho pode ser feita por um testador usando t√©cnicas de teste automatizadas, a seq√º√™ncia de desligamento de um sistema de computadores pode ser realizada por teste manual e observa√ß√£o, ao passo que a participa√ß√£o no mercado e as vendas (tamb√©m requisitos do produto) ser√£o realizadas atrav√©s da avalia√ß√£o do produto e das vendas competitivas.
 
-Como talvez vocÍ n„o consiga verificar todos os requisitos, nem seja respons·vel por isso, È essencial para o sucesso do projeto selecionar os requisitos mais apropriados e importantes para o teste. Os requisitos escolhidos para verificaÁ„o representar„o um equilÌbrio entre o custo, o risco e a necessidade de verific·-los.
+Como talvez voc√™ n√£o consiga verificar todos os requisitos, nem seja respons√°vel por isso, √© essencial para o sucesso do projeto selecionar os requisitos mais apropriados e importantes para o teste. Os requisitos escolhidos para verifica√ß√£o representar√£o um equil√≠brio entre o custo, o risco e a necessidade de verific√°-los.
 
-A identificaÁ„o dos casos de teste È importante por v·rios motivos.
+A identifica√ß√£o dos casos de teste √© importante por v√°rios motivos.
 
 Os casos de teste constituem a base do design e do desenvolvimento dos Scripts de Teste.
-A "profundidade" do teste È proporcional ao n˙mero de casos de teste. O aumento do n˙mero de casos de teste gera uma maior confianÁa na qualidade do produto e no processo de teste, j· que cada caso de teste reflete um cen·rio, uma condiÁ„o ou um fluxo diferente atravÈs do produto.
-A principal avaliaÁ„o da abrangÍncia do teste È a cobertura baseada em requisitos, de acordo com o n˙mero de casos de teste identificados, implementados e/ou executados. Uma sentenÁa como "Executamos e verificamos 95% dos casos de teste crÌticos" È mais significativa do que a sentenÁa "J· executamos 95% do total de testes".
-A escala do esforÁo de teste È proporcional ao n˙mero de casos de teste. Com uma an·lise abrangente dos casos de teste, È possÌvel estimar com mais precis„o a duraÁ„o dos est·gios subseq¸entes do ciclo de teste.
-Os tipos de design e desenvolvimento de testes e os recursos necess·rios s„o amplamente controlados pelos casos de teste.
-Geralmente, os casos de teste s„o categorizados ou classificados pelo tipo ou requisito de teste ao qual est„o associados e variam de acordo com isso. A melhor pr·tica consiste em desenvolver pelo menos dois casos de teste para cada requisito de teste:
+A "profundidade" do teste √© proporcional ao n√∫mero de casos de teste. O aumento do n√∫mero de casos de teste gera uma maior confian√ßa na qualidade do produto e no processo de teste, j√° que cada caso de teste reflete um cen√°rio, uma condi√ß√£o ou um fluxo diferente atrav√©s do produto.
+A principal avalia√ß√£o da abrang√™ncia do teste √© a cobertura baseada em requisitos, de acordo com o n√∫mero de casos de teste identificados, implementados e/ou executados. Uma senten√ßa como "Executamos e verificamos 95% dos casos de teste cr√≠ticos" √© mais significativa do que a senten√ßa "J√° executamos 95% do total de testes".
+A escala do esfor√ßo de teste √© proporcional ao n√∫mero de casos de teste. Com uma an√°lise abrangente dos casos de teste, √© poss√≠vel estimar com mais precis√£o a dura√ß√£o dos est√°gios subseq√ºentes do ciclo de teste.
+Os tipos de design e desenvolvimento de testes e os recursos necess√°rios s√£o amplamente controlados pelos casos de teste.
+Geralmente, os casos de teste s√£o categorizados ou classificados pelo tipo ou requisito de teste ao qual est√£o associados e variam de acordo com isso. A melhor pr√°tica consiste em desenvolver pelo menos dois casos de teste para cada requisito de teste:
 
 um caso de teste para demonstrar que o requisito foi atendido, geralmente conhecido como um caso de teste positivo,
-outro caso de teste, conhecido como negativo, refletindo uma condiÁ„o ou dados inaceit·veis, anormais ou inesperados para demonstrar que o requisito sÛ pode ser atendido sob a condiÁ„o desejada.
+outro caso de teste, conhecido como negativo, refletindo uma condi√ß√£o ou dados inaceit√°veis, anormais ou inesperados para demonstrar que o requisito s√≥ pode ser atendido sob a condi√ß√£o desejada.
 
-Adriano Angelo Ramalho RA 1800019
+Samuel Jos√© da Silva Ra: 1801266
