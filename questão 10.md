@@ -1,7 +1,8 @@
-Em uma Pirâmide de Testes, a sugestão é que se faça uma divisão de 70/20/10, ou seja:
+Em uma PirÃ¢mide de Testes, a sugestÃ£o Ã© que se faÃ§a uma divisÃ£o de 70/20/10, ou seja:
 
-70% de testes unitários;
-20% de testes de integração;
+70% de testes unitÃ¡rios;
+20% de testes de integraÃ§Ã£o;
 10% de testes de ponta a ponta.
-Isso serve para tentar sempre evitar uma pirâmide invertida (focada em testes de ponta a ponta),
-ou em formato de ampulheta (foco em testes unitários e ponta a ponta, mas nenhum em integração).
+Isso serve para tentar sempre evitar uma pirÃ¢mide invertida (focada em testes de ponta a ponta),
+ou em formato de ampulheta (foco em testes unitÃ¡rios e ponta a ponta, mas nenhum em integraÃ§Ã£o).
+Fabricio Diniz Batista RA: 1801217
