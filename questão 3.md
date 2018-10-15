@@ -1,7 +1,10 @@
-O objetivo da ValidaÁ„o e da VerificaÁ„o È assegurar que o SW seja adequado e se atende ‡s necessidades,
-ou seja, a confirmaÁ„o de que este cumpra suas especificaÁıes.
+O objetivo da Valida√ß√£o e da Verifica√ß√£o √© assegurar que o SW seja adequado e se atende √†s necessidades,
+ou seja, a confirma√ß√£o de que este cumpra suas especifica√ß√µes.
 
-A VerificaÁ„o È uma atividade, a qual envolve a an·lise de um sistema para certificar se este atende aos
-requisitos funcionais e n„o funcionais. J· a ValidaÁ„o, È a certificaÁ„o de que o sistema atende as
-necessidades e expectativas do cliente. O processo de ValidaÁ„o e VerificaÁ„o, n„o s„o processos separados
+A Verifica√ß√£o √© uma atividade, a qual envolve a an√°lise de um sistema para certificar se este atende aos
+requisitos funcionais e n√£o funcionais. J√° a Valida√ß√£o, √© a certifica√ß√£o de que o sistema atende as
+necessidades e expectativas do cliente. O processo de Valida√ß√£o e Verifica√ß√£o, n√£o s√£o processos separados
 e independentes.
+
+Lucas Luiz Costa Lima
+RA: 1802197
